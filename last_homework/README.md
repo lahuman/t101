@@ -583,6 +583,7 @@ Wed Dec  7 16:10:33 KST 2022
 
 ```bash
 $ terraform destroy
+...
 aws_vpc.myvpc: Destruction complete after 1s
 
 Destroy complete! Resources: 12 destroyed.
