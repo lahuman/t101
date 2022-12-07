@@ -3,7 +3,7 @@
 
 > 최종 과제로 무엇을 할까 고민하다 결국 내가 "가장 기본이 되는 기초를 정리해보자!"가 되었습니다. 개인적으로 가장 인상 깊었던 2번째 시간의 코드를 좀더 상세하게 정리하여 보았습니다.
 
-<div class="mermaid">
+```mermaid
 flowchart LR;
   subgraph AWS;
     direction TB;
@@ -16,7 +16,9 @@ flowchart LR;
       end
     end
   end
-</div>
+C[USER] --> A & B
+```
+
 
 ## 1. [VPC](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/configure-your-vpc.html)와 [subnet](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/configure-subnets.html) 생성
 
