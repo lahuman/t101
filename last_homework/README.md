@@ -22,7 +22,7 @@ C[USER] --> A & B
 
 ## 1. [VPC](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/configure-your-vpc.html)와 [subnet](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/configure-subnets.html) 생성
 
-> (Amazon VPC란 무엇인가?)[https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/what-is-amazon-vpc.html] 를 보면 자세하게 설명 되어 있지만, 간단하게 주요 기능은 아래와 같습니다. 
+> [Amazon VPC란 무엇인가?](https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/what-is-amazon-vpc.html)를 보면 자세하게 설명 되어 있지만, 간단하게 주요 기능은 아래와 같습니다. 
 
 - VPC :  자체 데이터 센터에서 운영하는 기존 네트워크와 아주 유사한 가상 네트워크
 - subnet : VPC의 ip 주소 범위
